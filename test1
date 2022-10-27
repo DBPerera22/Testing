@@ -1,0 +1,9 @@
+-before connection lost-
+
+git add .
+git commit
+
+
+
+- After connection Lost-
+git push
